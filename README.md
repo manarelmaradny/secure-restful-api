@@ -1,5 +1,5 @@
 
-# Secure RESTful API – InfoSec Task
+# Secure RESTful API
 
 This project is a secure RESTful API built using **Flask**, **JWT**, and **SQLite** for managing users and products. It was developed as part of an **Information Security Management** course to demonstrate best practices in authentication, authorization, and secure API development.
 
